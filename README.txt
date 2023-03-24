@@ -1,0 +1,1 @@
+Este archivo es para poner las ideas generales del repositorio
